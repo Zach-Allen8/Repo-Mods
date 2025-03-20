@@ -1,0 +1,10 @@
+{
+    "name": "Tokucade_Valuables",
+    "version_number": "1.4.0",
+    "website_url": "https://github.com/CaiganMythFang/caigan_lethal_expansion_projects",
+    "description": "Toys, plushies, and silly things. A lot of various fun bits of loot to find, all from the Tokucade!",
+    "dependencies": 
+[
+        "Zehs-REPOLib-1.4.2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Mimic",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "Mimic is a Skinwalker (Lethal Company Mod) inspired mod for R.E.P.O that allows the creatures of the game to sound like you or your friends!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
