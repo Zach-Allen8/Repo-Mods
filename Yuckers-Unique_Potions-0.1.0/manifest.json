@@ -1,0 +1,9 @@
+{
+	"name" : "Unique_Potions",
+	"version_number" : "0.1.0",
+	"website_url" : "",
+	"description" : "Adds a variety of valuable potions and purchaseable elixirs with unique effects.",
+	"dependencies" : [
+		"Zehs-REPOLib-1.4.2"
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "REPOLib",
+    "version_number": "1.4.2",
+    "website_url": "https://github.com/ZehsTeam/REPOLib",
+    "description": "Library for adding content to R.E.P.O.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

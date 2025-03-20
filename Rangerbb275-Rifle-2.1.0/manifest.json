@@ -1,0 +1,9 @@
+{
+  "name": "Rifle",
+  "description": "This mod adds the Huntsman's rifle to REPO!",
+  "version_number": "2.1.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.1"
+  ],
+  "website_url": ""
+}
