@@ -1,9 +1,0 @@
-{
-  "name": "DeathHeadHopper",
-  "version_number": "1.0.2",
-  "website_url": "",
-  "description": "Allows you to hop around after death (enhanced spectate)",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
-  ]
-}
