@@ -1,0 +1,9 @@
+{
+  "name": "StupidHead",
+  "version_number": "1.2.0",
+  "website_url": "",
+  "description": "An entirely normal set of MoreHead additions.",
+  "dependencies": [
+    "YMC_MHZ-MoreHead-1.0.2"
+  ]
+}
