@@ -1,0 +1,9 @@
+{
+    "name": "MoreCosmetics",
+    "version_number": "0.0.1",
+    "website_url": "",
+    "description": "Adds more options to the MoreHead mod.",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.0.2"
+    ]
+}
