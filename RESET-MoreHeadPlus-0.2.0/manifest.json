@@ -1,0 +1,9 @@
+﻿{
+  "name": "MoreHeadPlus",
+  "version_number": "0.2.0",
+  "website_url": "",
+  "description": "Adds several more cosmetics to the MoreHead mod such as Nintendo, Sega, Anime and more!.",
+  "dependencies": [
+      "YMC_MHZ-MoreHead-1.0.2"
+  ]
+}
