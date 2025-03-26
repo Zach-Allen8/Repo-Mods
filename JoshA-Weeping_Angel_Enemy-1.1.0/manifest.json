@@ -1,0 +1,10 @@
+{
+  "name": "Weeping_Angel_Enemy",
+  "version_number": "1.1.0",
+  "website_url": "",
+  "description": "Weeping angel enemy mod. Spawns in any map, at any difficulty",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
