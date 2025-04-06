@@ -1,0 +1,9 @@
+{
+  "name": "PokemonValuables",
+  "description": "This mod adds 15+ Pokemon you can find in your game!",
+  "version_number": "1.2.1",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}
